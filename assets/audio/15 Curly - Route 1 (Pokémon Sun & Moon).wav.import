@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://0uix0mvg78l1"
+path="res://.godot/imported/15 Curly - Route 1 (Pokémon Sun & Moon).wav-a16f8053fbc44a6c6cefc8ec30e51f60.sample"
+
+[deps]
+
+source_file="res://assets/audio/15 Curly - Route 1 (Pokémon Sun & Moon).wav"
+dest_files=["res://.godot/imported/15 Curly - Route 1 (Pokémon Sun & Moon).wav-a16f8053fbc44a6c6cefc8ec30e51f60.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
